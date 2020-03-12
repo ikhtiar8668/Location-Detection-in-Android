@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Authentication</string>
+
+    <string name="API_KEY" translatable="false">AIzaSyB0ix6J5aOxCYhGrEwDlncCIHTtNiB14Kg</string>
+
+    <string name="SignIn_EditText_Hint">Enter your email</string>
+    <string name="SignInPassword_EditText_Hint">Enter your password</string>
+    <string name="SignInButton_Hint">Sign in</string>
+    <string name="SignUp_TextView_Hint">Not yet register? Sign up</string>
+    <string name="SignUpButton_Hint">Sign Up</string>
+    <string name="SignIn_TextView_Hint">Already on account? Sign in</string>
+    <string name="Final_TextView_Hint">Welcome to profile activity</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_location">Your location</string>
+    <string name="menu_contract">Contract</string>
+    <string name="menu_rating">Rating</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_signOut">Sign out</string>
+</resources>
